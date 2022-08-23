@@ -1,0 +1,145 @@
+{
+  "January": {
+    "id": 0,
+    "startDay": 1,
+    "endDay": 31,
+    "weeks": {
+      "week1": { "startDay": 1, "endDay": 7 },
+      "week2": { "startDay": 8, "endDay": 14 },
+      "week3": { "startDay": 15, "endDay": 21 },
+      "week4": { "startDay": 21, "endDay": 28 },
+      "week5": { "startDay": 29, "endDay": 31 }
+    }
+  },
+  "February": {
+    "id": 1,
+    "startDay": 1,
+    "endDay": 28,
+    "weeks": {
+      "Week1": { "startDay": 1, "endDay": 7 },
+      "Week2": { "startDay": 8, "endDay": 14 },
+      "Week3": { "startDay": 15, "endDay": 21 },
+      "Week4": { "startDay": 21, "endDay": 28 }
+    }
+  },
+  "March": {
+    "id": 2,
+    "startDay": 1,
+    "endDay": 31,
+    "weeks": {
+      "Week1": { "startDay": 1, "endDay": 7 },
+      "Week2": { "startDay": 8, "endDay": 14 },
+      "Week3": { "startDay": 15, "endDay": 21 },
+      "Week4": { "startDay": 21, "endDay": 28 },
+      "Week5": { "startDay": 29, "endDay": 31 }
+    }
+  },
+  "April": {
+    "id": 3,
+    "startDay": 1,
+    "endDay": 30,
+    "weeks": {
+      "Week1": { "startDay": 1, "endDay": 7 },
+      "Week2": { "startDay": 8, "endDay": 14 },
+      "Week3": { "startDay": 15, "endDay": 21 },
+      "Week4": { "startDay": 21, "endDay": 28 },
+      "Week5": { "startDay": 29, "endDay": 30 }
+    }
+  },
+  "May": {
+    "id": 4,
+    "startDay": 1,
+    "endDay": 31,
+    "weeks": {
+      "Week1": { "startDay": 1, "endDay": 7 },
+      "Week2": { "startDay": 8, "endDay": 14 },
+      "Week3": { "startDay": 15, "endDay": 21 },
+      "Week4": { "startDay": 21, "endDay": 28 },
+      "Week5": { "startDay": 29, "endDay": 31 }
+    }
+  },
+  "June": {
+    "id": 5,
+    "startDay": 1,
+    "endDay": 30,
+    "weeks": {
+      "Week1": { "startDay": 1, "endDay": 7 },
+      "Week2": { "startDay": 8, "endDay": 14 },
+      "Week3": { "startDay": 15, "endDay": 21 },
+      "Week4": { "startDay": 21, "endDay": 28 },
+      "Week5": { "startDay": 29, "endDay": 30 }
+    }
+  },
+  "July": {
+    "id": 6,
+    "startDay": 1,
+    "endDay": 31,
+    "weeks": {
+      "Week1": { "startDay": 1, "endDay": 7 },
+      "Week2": { "startDay": 8, "endDay": 14 },
+      "Week3": { "startDay": 15, "endDay": 21 },
+      "Week4": { "startDay": 21, "endDay": 28 },
+      "Week5": { "startDay": 29, "endDay": 31 }
+    }
+  },
+  "August": {
+    "id": 7,
+    "startDay": 1,
+    "endDay": 31,
+    "weeks": {
+      "Week1": { "startDay": 1, "endDay": 7 },
+      "Week2": { "startDay": 8, "endDay": 14 },
+      "Week3": { "startDay": 15, "endDay": 21 },
+      "Week4": { "startDay": 21, "endDay": 28 },
+      "Week5": { "startDay": 29, "endDay": 31 }
+    }
+  },
+  "September": {
+    "id": 8,
+    "startDay": 1,
+    "endDay": 30,
+    "weeks": {
+      "Week1": { "startDay": 1, "endDay": 7 },
+      "Week2": { "startDay": 8, "endDay": 14 },
+      "Week3": { "startDay": 15, "endDay": 21 },
+      "Week4": { "startDay": 21, "endDay": 28 },
+      "Week5": { "startDay": 29, "endDay": 30 }
+    }
+  },
+  "October": {
+    "id": 9,
+    "startDay": 1,
+    "endDay": 31,
+    "weeks": {
+      "Week1": { "startDay": 1, "endDay": 7 },
+      "Week2": { "startDay": 8, "endDay": 14 },
+      "Week3": { "startDay": 15, "endDay": 21 },
+      "Week4": { "startDay": 21, "endDay": 28 },
+      "Week5": { "startDay": 29, "endDay": 31 }
+    }
+  },
+  "November": {
+    "id": 10,
+    "startDay": 1,
+    "endDay": 31,
+    "weeks": {
+      "Week1": { "startDay": 1, "endDay": 7 },
+      "Week2": { "startDay": 8, "endDay": 14 },
+      "Week3": { "startDay": 15, "endDay": 21 },
+      "Week4": { "startDay": 21, "endDay": 28 },
+      "Week5": { "startDay": 29, "endDay": 31 }
+    }
+  },
+  "December": {
+    "id": 11,
+    "startDay": 1,
+    "endDay": 31,
+    "weeks": {
+      "Week1": { "startDay": 1, "endDay": 7 },
+      "Week2": { "startDay": 8, "endDay": 14 },
+      "Week3": { "startDay": 15, "endDay": 21 },
+      "Week4": { "startDay": 21, "endDay": 28 },
+      "Week5": { "startDay": 29, "endDay": 31 }
+    }
+  }
+}
