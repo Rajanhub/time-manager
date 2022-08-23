@@ -1,3 +1,16 @@
+# Information on node version
+
+This react app was developed with node version 18 so if there was any error on installation please upgrade or downgrade to node 18
+
+# Project Installation
+
+Please go to base of project and run 'npm install' or 'npm i' on the terminals.
+
+# Package and Library(extra beside what comes with cra)
+
+- React table-for table generation
+- sass- for preprocessing scss and ui
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
